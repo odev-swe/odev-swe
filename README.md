@@ -2,7 +2,7 @@
 <h2 align="center">Hey, I'm Oscar <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="16px">
 </h2>
 <!-- Statistic -->
-<div style="display:flex;justify-content: space-between;">
+<div style="display:flex;justify-content: space-between;gap:1rem;">
   <div>
   <img src="https://komarev.com/ghpvc/?username=odev-swe&style=flat-square">
   </div>
