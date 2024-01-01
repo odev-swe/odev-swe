@@ -14,7 +14,7 @@
 
 --- 
 ## Software Developer @ FPT Software Malaysia | Petronas
-- 🌱 I'm currently working as a backend engineer in petronas project.
+- 🌱 I'm currently working as a backend engineer in Petronas project.
 - 🥅 2024 Goals: Golang | Python (Backend) | Devops | DSA.
 - ⚡ Fun fact: Try to catch bugs in my project.
 
